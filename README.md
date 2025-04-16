@@ -53,7 +53,7 @@ The tool will then process the log file and provide a summary of key information
   https://roadmap.sh/projects/nginx-log-analyser```
   
  Here's the result:
-  ![Image](https://github.com/user-attachments/assets/e67e3e4e-f512-4585-ab52-8d3e0b82f485
+  ![Image](https://github.com/user-attachments/assets/e67e3e4e-f512-4585-ab52-8d3e0b82f485)
 
   
 
