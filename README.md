@@ -50,7 +50,7 @@ The tool will then process the log file and provide a summary of key information
 - **Top URLs**: Show the most requested URLs in the log file.
 - **Top IPs**: Display the IP addresses with the most requests.
 
-  ```You can access the code here:
+  ```You can access the task here:
   https://roadmap.sh/projects/nginx-log-analyser
   ```
  Here's the result:
