@@ -40,6 +40,7 @@ After installing, the basic command looks like this:
 
 ```bash
 log-analyzer path/to/your/access.log
+
 ```
 
 The tool will then process the log file and provide a summary of key information. You can also specify additional parameters to filter or customize the output.
